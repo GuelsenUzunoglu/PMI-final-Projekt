@@ -1,0 +1,41 @@
+# Node Modules
+node_modules/
+
+# Output Directories
+.output/
+.vercel/
+.netlify/
+.wrangler/
+.svelte-kit/
+build/
+
+# OS-specific Files
+.DS_Store
+Thumbs.db
+
+# Environment Files
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite Configurations
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Database Files
+database
+database.db.wal
+
+# Log Files
+*.log
+
+# Temporary and Cache Files
+.cache/
+.vite/
+*.tmp
+*~
+
+# IDE Specific
+.vscode/
+.idea/
