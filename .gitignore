@@ -25,7 +25,6 @@ vite.config.ts.timestamp-*
 
 # Database Files
 database
-database.db.wal
 
 # Log Files
 *.log
