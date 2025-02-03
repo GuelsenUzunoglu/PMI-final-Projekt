@@ -45,7 +45,12 @@ Run the following command to install all required packages:
 npm install
 ```
 
-### **2. Start the Development Server**
+### **2. Install Node-api
+```bash
+npm install @duckdb/node-api
+```
+
+### **3. Start the Development Server**
 Start the local development server:
 ```bash
 npm run dev
